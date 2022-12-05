@@ -1,0 +1,150 @@
+{
+  "id": "3660108785572721431311508311104",
+  "lastModified": "2022-12-05T20:27:00.111Z",
+  "title": "Slots (Textbox)",
+  "data": {
+    "items": [
+      {
+        "type": "grid",
+        "outline": true,
+        "items": [
+          {
+            "type": "row",
+            "items": [
+              {
+                "type": "column",
+                "items": [
+                  {
+                    "type": "text",
+                    "text": "Slots (Textbox)",
+                    "id": "9",
+                    "codeContext": {
+                      "name": "text-9"
+                    },
+                    "cssClasses": [
+                      {
+                        "id": "title",
+                        "name": "title"
+                      }
+                    ]
+                  }
+                ],
+                "id": "4",
+                "codeContext": {
+                  "name": "column-4"
+                },
+                "cssClasses": []
+              },
+              {
+                "type": "column",
+                "items": [],
+                "id": "5",
+                "codeContext": {
+                  "name": "column-5"
+                }
+              }
+            ],
+            "id": "3",
+            "codeContext": {
+              "name": "row-3"
+            },
+            "cssClasses": [
+              {
+                "id": "mg-20",
+                "name": "mg-20"
+              }
+            ]
+          },
+          {
+            "type": "row",
+            "items": [
+              {
+                "type": "column",
+                "items": [
+                  {
+                    "type": "text-input",
+                    "label": "Name",
+                    "placeholder": "cool-new-slot",
+                    "helperText": "Name you'll find in 'States' sidebar",
+                    "inputType": "text",
+                    "id": "11",
+                    "codeContext": {
+                      "name": "text-input-11"
+                    },
+                    "cssClasses": []
+                  }
+                ],
+                "id": "7",
+                "codeContext": {
+                  "name": "column-7"
+                },
+                "cssClasses": []
+              },
+              {
+                "type": "column",
+                "items": [
+                  {
+                    "type": "dropdown",
+                    "placeholder": "Hide",
+                    "isMulti": false,
+                    "isInline": false,
+                    "selectionFeedback": "top-after-reopen",
+                    "direction": "bottom",
+                    "size": "md",
+                    "label": "Action",
+                    "helperText": "What this element 'does' ",
+                    "listItems": [
+                      {
+                        "text": "Hide"
+                      },
+                      {
+                        "text": "Disable"
+                      }
+                    ],
+                    "id": "12",
+                    "codeContext": {
+                      "name": "dropdown-12"
+                    },
+                    "cssClasses": []
+                  }
+                ],
+                "id": "10",
+                "codeContext": {
+                  "name": "column-10"
+                }
+              }
+            ],
+            "id": "6",
+            "codeContext": {
+              "name": "row-6"
+            },
+            "cssClasses": [
+              {
+                "id": "mg-20",
+                "name": "mg-20"
+              }
+            ]
+          }
+        ],
+        "id": "2",
+        "codeContext": {
+          "name": "grid-2"
+        }
+      }
+    ],
+    "id": 1
+  },
+  "cssClasses": [],
+  "allCssClasses": [
+    {
+      "id": "mg-20",
+      "name": "mg-20",
+      "content": "margin: 20px;"
+    },
+    {
+      "id": "title",
+      "name": "title",
+      "content": "font-size: 30px;\npadding: 20px;\n"
+    }
+  ]
+}
