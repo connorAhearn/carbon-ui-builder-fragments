@@ -1,0 +1,355 @@
+{
+  "id": "776535262839874509042561284718564",
+  "lastModified": "2022-12-05T20:05:01.939Z",
+  "title": "New fragment",
+  "data": {
+    "items": [
+      {
+        "type": "grid",
+        "outline": true,
+        "items": [
+          {
+            "type": "row",
+            "items": [
+              {
+                "type": "column",
+                "items": [
+                  {
+                    "type": "text",
+                    "text": "States",
+                    "id": "9",
+                    "codeContext": {
+                      "name": "text-9"
+                    },
+                    "cssClasses": [
+                      {
+                        "id": "title",
+                        "name": "title"
+                      },
+                      {
+                        "id": "mg-20",
+                        "name": "mg-20"
+                      }
+                    ]
+                  }
+                ],
+                "id": "4",
+                "codeContext": {
+                  "name": "column-4"
+                },
+                "cssClasses": []
+              }
+            ],
+            "id": "3",
+            "codeContext": {
+              "name": "row-3"
+            },
+            "cssClasses": [
+              {
+                "id": "pd-20",
+                "name": "pd-20"
+              }
+            ]
+          },
+          {
+            "type": "row",
+            "items": [
+              {
+                "type": "column",
+                "items": [
+                  {
+                    "type": "grid",
+                    "outline": true,
+                    "items": [
+                      {
+                        "type": "row",
+                        "items": [
+                          {
+                            "type": "column",
+                            "items": [
+                              {
+                                "type": "text",
+                                "text": "IF",
+                                "id": "24",
+                                "codeContext": {
+                                  "name": "text-24"
+                                },
+                                "cssClasses": []
+                              }
+                            ],
+                            "id": "20",
+                            "codeContext": {
+                              "name": "column-20"
+                            },
+                            "cssClasses": [
+                              {
+                                "id": "pd-20",
+                                "name": "pd-20"
+                              }
+                            ]
+                          }
+                        ],
+                        "id": "18",
+                        "codeContext": {
+                          "name": "row-18"
+                        }
+                      },
+                      {
+                        "type": "row",
+                        "items": [
+                          {
+                            "type": "column",
+                            "items": [
+                              {
+                                "type": "tag",
+                                "kind": "gray",
+                                "size": "md",
+                                "filter": false,
+                                "disabled": false,
+                                "title": "Signal",
+                                "id": "13",
+                                "codeContext": {
+                                  "name": "tag-13"
+                                },
+                                "cssClasses": [
+                                  {
+                                    "id": "pd-20",
+                                    "name": "pd-20"
+                                  }
+                                ]
+                              }
+                            ],
+                            "id": "23",
+                            "codeContext": {
+                              "name": "column-23"
+                            }
+                          }
+                        ],
+                        "id": "21",
+                        "codeContext": {
+                          "name": "row-21"
+                        },
+                        "cssClasses": []
+                      }
+                    ],
+                    "id": "17",
+                    "codeContext": {
+                      "name": "grid-17"
+                    }
+                  }
+                ],
+                "id": "11",
+                "codeContext": {
+                  "name": "column-11"
+                },
+                "cssClasses": [
+                  {
+                    "id": "ta-center",
+                    "name": "ta-center"
+                  },
+                  {
+                    "id": "pd-20",
+                    "name": "pd-20"
+                  }
+                ]
+              },
+              {
+                "type": "column",
+                "items": [
+                  {
+                    "type": "grid",
+                    "outline": true,
+                    "items": [
+                      {
+                        "type": "row",
+                        "items": [],
+                        "id": "16",
+                        "codeContext": {
+                          "name": "row-16"
+                        }
+                      }
+                    ],
+                    "id": "15",
+                    "codeContext": {
+                      "name": "grid-15"
+                    },
+                    "cssClasses": []
+                  },
+                  {
+                    "type": "text",
+                    "text": "[Arrow Graphic]",
+                    "id": "35",
+                    "codeContext": {
+                      "name": "text-35"
+                    },
+                    "cssClasses": []
+                  }
+                ],
+                "id": "12",
+                "codeContext": {
+                  "name": "column-12"
+                },
+                "cssClasses": [
+                  {
+                    "id": "pd-20",
+                    "name": "pd-20"
+                  },
+                  {
+                    "id": "ta-center",
+                    "name": "ta-center"
+                  }
+                ]
+              },
+              {
+                "type": "column",
+                "items": [
+                  {
+                    "type": "grid",
+                    "outline": true,
+                    "items": [
+                      {
+                        "type": "row",
+                        "items": [
+                          {
+                            "type": "column",
+                            "items": [
+                              {
+                                "type": "text",
+                                "text": "THEN",
+                                "id": "33",
+                                "codeContext": {
+                                  "name": "text-33"
+                                },
+                                "cssClasses": [
+                                  {
+                                    "id": "pd-20",
+                                    "name": "pd-20"
+                                  }
+                                ]
+                              }
+                            ],
+                            "id": "32",
+                            "codeContext": {
+                              "name": "column-32"
+                            },
+                            "cssClasses": [
+                              {
+                                "id": "pd-20",
+                                "name": "pd-20"
+                              }
+                            ]
+                          }
+                        ],
+                        "id": "26",
+                        "codeContext": {
+                          "name": "row-26"
+                        },
+                        "cssClasses": []
+                      },
+                      {
+                        "type": "row",
+                        "items": [
+                          {
+                            "type": "column",
+                            "items": [
+                              {
+                                "type": "tag",
+                                "kind": "gray",
+                                "size": "md",
+                                "filter": false,
+                                "disabled": false,
+                                "title": "Slot",
+                                "id": "14",
+                                "codeContext": {
+                                  "name": "tag-14"
+                                },
+                                "cssClasses": [
+                                  {
+                                    "id": "pd-20",
+                                    "name": "pd-20"
+                                  }
+                                ]
+                              }
+                            ],
+                            "id": "31",
+                            "codeContext": {
+                              "name": "column-31"
+                            },
+                            "cssClasses": []
+                          }
+                        ],
+                        "id": "29",
+                        "codeContext": {
+                          "name": "row-29"
+                        },
+                        "cssClasses": []
+                      }
+                    ],
+                    "id": "25",
+                    "codeContext": {
+                      "name": "grid-25"
+                    },
+                    "cssClasses": []
+                  }
+                ],
+                "id": "34",
+                "codeContext": {
+                  "name": "column-34"
+                },
+                "cssClasses": [
+                  {
+                    "id": "pd-20",
+                    "name": "pd-20"
+                  }
+                ]
+              }
+            ],
+            "id": "10",
+            "codeContext": {
+              "name": "row-10"
+            },
+            "cssClasses": [
+              {
+                "id": "border",
+                "name": "border"
+              }
+            ]
+          }
+        ],
+        "id": "2",
+        "codeContext": {
+          "name": "grid-2"
+        }
+      }
+    ],
+    "id": 1
+  },
+  "cssClasses": [],
+  "allCssClasses": [
+    {
+      "id": "pd-20",
+      "name": "pd-20",
+      "content": "padding: 20px;"
+    },
+    {
+      "id": "title",
+      "name": "title",
+      "content": "font-size: 30px;\npadding: 20px;\n"
+    },
+    {
+      "id": "mg-20",
+      "name": "mg-20",
+      "content": "margin: 20px;"
+    },
+    {
+      "id": "border",
+      "name": "border",
+      "content": "border: 2px black solid;"
+    },
+    {
+      "id": "ta-center",
+      "name": "ta-center",
+      "content": "text-align: center;\nvertical-align: bottom;"
+    }
+  ]
+}
