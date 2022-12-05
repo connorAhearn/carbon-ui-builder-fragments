@@ -1,0 +1,187 @@
+{
+  "id": "039712989068691142707404855168509",
+  "lastModified": "2022-12-05T20:21:53.162Z",
+  "title": "New fragment",
+  "data": {
+    "items": [
+      {
+        "type": "grid",
+        "outline": true,
+        "items": [
+          {
+            "type": "row",
+            "items": [
+              {
+                "type": "column",
+                "items": [
+                  {
+                    "type": "text",
+                    "text": "Signals (Textbox)",
+                    "id": "62",
+                    "codeContext": {
+                      "name": "text-62"
+                    }
+                  }
+                ],
+                "id": "58",
+                "codeContext": {
+                  "name": "column-58"
+                },
+                "cssClasses": [
+                  {
+                    "id": "pd-20",
+                    "name": "pd-20"
+                  },
+                  {
+                    "id": "title",
+                    "name": "title"
+                  }
+                ]
+              }
+            ],
+            "id": "57",
+            "codeContext": {
+              "name": "row-57"
+            },
+            "cssClasses": []
+          },
+          {
+            "type": "row",
+            "items": [
+              {
+                "type": "column",
+                "items": [
+                  {
+                    "type": "text-input",
+                    "label": "Name",
+                    "placeholder": "your-cool-new-signal",
+                    "helperText": "The name find in the 'States' Pane",
+                    "inputType": "text",
+                    "id": "63",
+                    "codeContext": {
+                      "name": "text-input-63"
+                    },
+                    "cssClasses": []
+                  }
+                ],
+                "id": "61",
+                "codeContext": {
+                  "name": "column-61"
+                },
+                "cssClasses": [
+                  {
+                    "id": "mg-20",
+                    "name": "mg-20"
+                  }
+                ]
+              }
+            ],
+            "id": "60",
+            "codeContext": {
+              "name": "row-60"
+            },
+            "cssClasses": []
+          },
+          {
+            "type": "row",
+            "items": [
+              {
+                "type": "column",
+                "items": [
+                  {
+                    "type": "dropdown",
+                    "placeholder": "Matches",
+                    "isMulti": false,
+                    "isInline": false,
+                    "selectionFeedback": "top-after-reopen",
+                    "direction": "bottom",
+                    "size": "md",
+                    "label": "Condition",
+                    "helperText": "",
+                    "listItems": [
+                      {
+                        "text": "Matches"
+                      },
+                      {
+                        "text": "Does not Match"
+                      },
+                      {
+                        "text": "Contains"
+                      },
+                      {
+                        "text": "Does not contain"
+                      }
+                    ],
+                    "id": "67",
+                    "codeContext": {
+                      "name": "dropdown-67"
+                    },
+                    "cssClasses": []
+                  }
+                ],
+                "id": "65",
+                "codeContext": {
+                  "name": "column-65"
+                }
+              },
+              {
+                "type": "column",
+                "items": [
+                  {
+                    "type": "text-input",
+                    "label": "Value",
+                    "placeholder": "Doorknob",
+                    "helperText": "",
+                    "inputType": "text",
+                    "id": "68",
+                    "codeContext": {
+                      "name": "text-input-68"
+                    },
+                    "cssClasses": []
+                  }
+                ],
+                "id": "66",
+                "codeContext": {
+                  "name": "column-66"
+                }
+              }
+            ],
+            "id": "64",
+            "codeContext": {
+              "name": "row-64"
+            },
+            "cssClasses": [
+              {
+                "id": "mg-20",
+                "name": "mg-20"
+              }
+            ]
+          }
+        ],
+        "id": "56",
+        "codeContext": {
+          "name": "grid-56"
+        }
+      }
+    ],
+    "id": 1
+  },
+  "cssClasses": [],
+  "allCssClasses": [
+    {
+      "id": "pd-20",
+      "name": "pd-20",
+      "content": "padding: 20px;"
+    },
+    {
+      "id": "title",
+      "name": "title",
+      "content": "font-size: 30px;\npadding: 20px;\n"
+    },
+    {
+      "id": "mg-20",
+      "name": "mg-20",
+      "content": "margin: 20px;"
+    }
+  ]
+}
