@@ -1,7 +1,7 @@
 {
   "id": "776535262839874509042561284718564",
-  "lastModified": "2022-12-05T20:05:01.939Z",
-  "title": "New fragment",
+  "lastModified": "2022-12-05T20:13:28.124Z",
+  "title": "States sidebar",
   "data": {
     "items": [
       {
@@ -58,142 +58,24 @@
                 "type": "column",
                 "items": [
                   {
-                    "type": "grid",
-                    "outline": true,
-                    "items": [
-                      {
-                        "type": "row",
-                        "items": [
-                          {
-                            "type": "column",
-                            "items": [
-                              {
-                                "type": "text",
-                                "text": "IF",
-                                "id": "24",
-                                "codeContext": {
-                                  "name": "text-24"
-                                },
-                                "cssClasses": []
-                              }
-                            ],
-                            "id": "20",
-                            "codeContext": {
-                              "name": "column-20"
-                            },
-                            "cssClasses": [
-                              {
-                                "id": "pd-20",
-                                "name": "pd-20"
-                              }
-                            ]
-                          }
-                        ],
-                        "id": "18",
-                        "codeContext": {
-                          "name": "row-18"
-                        }
-                      },
-                      {
-                        "type": "row",
-                        "items": [
-                          {
-                            "type": "column",
-                            "items": [
-                              {
-                                "type": "tag",
-                                "kind": "gray",
-                                "size": "md",
-                                "filter": false,
-                                "disabled": false,
-                                "title": "Signal",
-                                "id": "13",
-                                "codeContext": {
-                                  "name": "tag-13"
-                                },
-                                "cssClasses": [
-                                  {
-                                    "id": "pd-20",
-                                    "name": "pd-20"
-                                  }
-                                ]
-                              }
-                            ],
-                            "id": "23",
-                            "codeContext": {
-                              "name": "column-23"
-                            }
-                          }
-                        ],
-                        "id": "21",
-                        "codeContext": {
-                          "name": "row-21"
-                        },
-                        "cssClasses": []
-                      }
-                    ],
-                    "id": "17",
+                    "type": "tag",
+                    "kind": "gray",
+                    "size": "md",
+                    "filter": false,
+                    "disabled": false,
+                    "title": "Connor Signal",
+                    "id": "42",
                     "codeContext": {
-                      "name": "grid-17"
-                    }
-                  }
-                ],
-                "id": "11",
-                "codeContext": {
-                  "name": "column-11"
-                },
-                "cssClasses": [
-                  {
-                    "id": "ta-center",
-                    "name": "ta-center"
-                  },
-                  {
-                    "id": "pd-20",
-                    "name": "pd-20"
-                  }
-                ]
-              },
-              {
-                "type": "column",
-                "items": [
-                  {
-                    "type": "grid",
-                    "outline": true,
-                    "items": [
-                      {
-                        "type": "row",
-                        "items": [],
-                        "id": "16",
-                        "codeContext": {
-                          "name": "row-16"
-                        }
-                      }
-                    ],
-                    "id": "15",
-                    "codeContext": {
-                      "name": "grid-15"
-                    },
-                    "cssClasses": []
-                  },
-                  {
-                    "type": "text",
-                    "text": "[Arrow Graphic]",
-                    "id": "35",
-                    "codeContext": {
-                      "name": "text-35"
+                      "name": "tag-42"
                     },
                     "cssClasses": []
                   }
                 ],
-                "id": "12",
+                "id": "37",
                 "codeContext": {
-                  "name": "column-12"
+                  "name": "column-37"
                 },
                 "cssClasses": [
-                  {
-                    "id": "pd-20",
-                    "name": "pd-20"
-                  },
                   {
                     "id": "ta-center",
                     "name": "ta-center"
@@ -204,122 +86,395 @@
                 "type": "column",
                 "items": [
                   {
-                    "type": "grid",
-                    "outline": true,
-                    "items": [
-                      {
-                        "type": "row",
-                        "items": [
-                          {
-                            "type": "column",
-                            "items": [
-                              {
-                                "type": "text",
-                                "text": "THEN",
-                                "id": "33",
-                                "codeContext": {
-                                  "name": "text-33"
-                                },
-                                "cssClasses": [
-                                  {
-                                    "id": "pd-20",
-                                    "name": "pd-20"
-                                  }
-                                ]
-                              }
-                            ],
-                            "id": "32",
-                            "codeContext": {
-                              "name": "column-32"
-                            },
-                            "cssClasses": [
-                              {
-                                "id": "pd-20",
-                                "name": "pd-20"
-                              }
-                            ]
-                          }
-                        ],
-                        "id": "26",
-                        "codeContext": {
-                          "name": "row-26"
-                        },
-                        "cssClasses": []
-                      },
-                      {
-                        "type": "row",
-                        "items": [
-                          {
-                            "type": "column",
-                            "items": [
-                              {
-                                "type": "tag",
-                                "kind": "gray",
-                                "size": "md",
-                                "filter": false,
-                                "disabled": false,
-                                "title": "Slot",
-                                "id": "14",
-                                "codeContext": {
-                                  "name": "tag-14"
-                                },
-                                "cssClasses": [
-                                  {
-                                    "id": "pd-20",
-                                    "name": "pd-20"
-                                  }
-                                ]
-                              }
-                            ],
-                            "id": "31",
-                            "codeContext": {
-                              "name": "column-31"
-                            },
-                            "cssClasses": []
-                          }
-                        ],
-                        "id": "29",
-                        "codeContext": {
-                          "name": "row-29"
-                        },
-                        "cssClasses": []
-                      }
-                    ],
-                    "id": "25",
+                    "type": "tag",
+                    "kind": "gray",
+                    "size": "md",
+                    "filter": false,
+                    "disabled": false,
+                    "title": "Same username and password",
+                    "id": "43",
                     "codeContext": {
-                      "name": "grid-25"
+                      "name": "tag-43"
                     },
                     "cssClasses": []
                   }
                 ],
-                "id": "34",
+                "id": "38",
                 "codeContext": {
-                  "name": "column-34"
+                  "name": "column-38"
                 },
                 "cssClasses": [
                   {
-                    "id": "pd-20",
-                    "name": "pd-20"
+                    "id": "ta-center",
+                    "name": "ta-center"
+                  }
+                ]
+              },
+              {
+                "type": "column",
+                "items": [
+                  {
+                    "type": "tag",
+                    "kind": "blue",
+                    "size": "md",
+                    "filter": false,
+                    "disabled": false,
+                    "title": "Disable Submit",
+                    "id": "44",
+                    "codeContext": {
+                      "name": "tag-44"
+                    },
+                    "cssClasses": []
+                  }
+                ],
+                "id": "41",
+                "codeContext": {
+                  "name": "column-41"
+                },
+                "cssClasses": [
+                  {
+                    "id": "ta-center",
+                    "name": "ta-center"
+                  }
+                ]
+              },
+              {
+                "type": "column",
+                "items": [
+                  {
+                    "type": "tag",
+                    "kind": "blue",
+                    "size": "md",
+                    "filter": false,
+                    "disabled": false,
+                    "title": "Hide button",
+                    "id": "45",
+                    "codeContext": {
+                      "name": "tag-45"
+                    },
+                    "cssClasses": []
+                  }
+                ],
+                "id": "40",
+                "codeContext": {
+                  "name": "column-40"
+                },
+                "cssClasses": [
+                  {
+                    "id": "ta-center",
+                    "name": "ta-center"
+                  }
+                ]
+              },
+              {
+                "type": "column",
+                "items": [
+                  {
+                    "type": "tag",
+                    "kind": "gray",
+                    "size": "md",
+                    "filter": false,
+                    "disabled": false,
+                    "title": "Edit mode",
+                    "id": "46",
+                    "codeContext": {
+                      "name": "tag-46"
+                    },
+                    "cssClasses": []
+                  }
+                ],
+                "id": "39",
+                "codeContext": {
+                  "name": "column-39"
+                },
+                "cssClasses": [
+                  {
+                    "id": "ta-center",
+                    "name": "ta-center"
                   }
                 ]
               }
             ],
-            "id": "10",
+            "id": "36",
             "codeContext": {
-              "name": "row-10"
+              "name": "row-36"
             },
-            "cssClasses": [
+            "cssClasses": []
+          },
+          {
+            "type": "row",
+            "items": [
               {
-                "id": "border",
-                "name": "border"
+                "type": "column",
+                "items": [
+                  {
+                    "type": "tile",
+                    "items": [
+                      {
+                        "type": "grid",
+                        "outline": true,
+                        "items": [
+                          {
+                            "type": "row",
+                            "items": [
+                              {
+                                "type": "column",
+                                "items": [
+                                  {
+                                    "type": "grid",
+                                    "outline": true,
+                                    "items": [
+                                      {
+                                        "type": "row",
+                                        "items": [
+                                          {
+                                            "type": "column",
+                                            "items": [
+                                              {
+                                                "type": "text",
+                                                "text": "IF",
+                                                "id": "24",
+                                                "codeContext": {
+                                                  "name": "text-24"
+                                                },
+                                                "cssClasses": []
+                                              }
+                                            ],
+                                            "id": "20",
+                                            "codeContext": {
+                                              "name": "column-20"
+                                            },
+                                            "cssClasses": [
+                                              {
+                                                "id": "pd-20",
+                                                "name": "pd-20"
+                                              },
+                                              {
+                                                "id": "ta-center",
+                                                "name": "ta-center"
+                                              }
+                                            ]
+                                          }
+                                        ],
+                                        "id": "18",
+                                        "codeContext": {
+                                          "name": "row-18"
+                                        },
+                                        "cssClasses": []
+                                      },
+                                      {
+                                        "type": "row",
+                                        "items": [
+                                          {
+                                            "type": "column",
+                                            "items": [
+                                              {
+                                                "type": "tag",
+                                                "kind": "gray",
+                                                "size": "md",
+                                                "filter": false,
+                                                "disabled": false,
+                                                "title": "Signal",
+                                                "id": "13",
+                                                "codeContext": {
+                                                  "name": "tag-13"
+                                                },
+                                                "cssClasses": [
+                                                  {
+                                                    "id": "pd-20",
+                                                    "name": "pd-20"
+                                                  }
+                                                ]
+                                              }
+                                            ],
+                                            "id": "23",
+                                            "codeContext": {
+                                              "name": "column-23"
+                                            },
+                                            "cssClasses": [
+                                              {
+                                                "id": "ta-center",
+                                                "name": "ta-center"
+                                              }
+                                            ]
+                                          }
+                                        ],
+                                        "id": "21",
+                                        "codeContext": {
+                                          "name": "row-21"
+                                        },
+                                        "cssClasses": []
+                                      }
+                                    ],
+                                    "id": "17",
+                                    "codeContext": {
+                                      "name": "grid-17"
+                                    },
+                                    "cssClasses": []
+                                  }
+                                ],
+                                "id": "53",
+                                "codeContext": {
+                                  "name": "column-53"
+                                }
+                              },
+                              {
+                                "type": "column",
+                                "items": [
+                                  {
+                                    "type": "grid",
+                                    "outline": true,
+                                    "items": [
+                                      {
+                                        "type": "row",
+                                        "items": [
+                                          {
+                                            "type": "column",
+                                            "items": [
+                                              {
+                                                "type": "text",
+                                                "text": "THEN",
+                                                "id": "33",
+                                                "codeContext": {
+                                                  "name": "text-33"
+                                                },
+                                                "cssClasses": [
+                                                  {
+                                                    "id": "pd-20",
+                                                    "name": "pd-20"
+                                                  }
+                                                ]
+                                              }
+                                            ],
+                                            "id": "32",
+                                            "codeContext": {
+                                              "name": "column-32"
+                                            },
+                                            "cssClasses": [
+                                              {
+                                                "id": "pd-20",
+                                                "name": "pd-20"
+                                              }
+                                            ]
+                                          }
+                                        ],
+                                        "id": "26",
+                                        "codeContext": {
+                                          "name": "row-26"
+                                        },
+                                        "cssClasses": [
+                                          {
+                                            "id": "ta-center",
+                                            "name": "ta-center"
+                                          }
+                                        ]
+                                      },
+                                      {
+                                        "type": "row",
+                                        "items": [
+                                          {
+                                            "type": "column",
+                                            "items": [
+                                              {
+                                                "type": "tag",
+                                                "kind": "blue",
+                                                "size": "md",
+                                                "filter": false,
+                                                "disabled": false,
+                                                "title": "Slot",
+                                                "id": "14",
+                                                "codeContext": {
+                                                  "name": "tag-14"
+                                                },
+                                                "cssClasses": [
+                                                  {
+                                                    "id": "pd-20",
+                                                    "name": "pd-20"
+                                                  }
+                                                ]
+                                              }
+                                            ],
+                                            "id": "31",
+                                            "codeContext": {
+                                              "name": "column-31"
+                                            },
+                                            "cssClasses": [
+                                              {
+                                                "id": "ta-center",
+                                                "name": "ta-center"
+                                              }
+                                            ]
+                                          }
+                                        ],
+                                        "id": "29",
+                                        "codeContext": {
+                                          "name": "row-29"
+                                        },
+                                        "cssClasses": []
+                                      }
+                                    ],
+                                    "id": "25",
+                                    "codeContext": {
+                                      "name": "grid-25"
+                                    },
+                                    "cssClasses": []
+                                  }
+                                ],
+                                "id": "54",
+                                "codeContext": {
+                                  "name": "column-54"
+                                }
+                              }
+                            ],
+                            "id": "52",
+                            "codeContext": {
+                              "name": "row-52"
+                            }
+                          },
+                          {
+                            "type": "row",
+                            "items": [],
+                            "id": "55",
+                            "codeContext": {
+                              "name": "row-55"
+                            }
+                          }
+                        ],
+                        "id": "51",
+                        "codeContext": {
+                          "name": "grid-51"
+                        }
+                      }
+                    ],
+                    "id": "50",
+                    "codeContext": {
+                      "name": "tile-50"
+                    },
+                    "cssClasses": [
+                      {
+                        "id": "mg-20",
+                        "name": "mg-20"
+                      }
+                    ]
+                  }
+                ],
+                "id": "49",
+                "codeContext": {
+                  "name": "column-49"
+                }
               }
-            ]
+            ],
+            "id": "47",
+            "codeContext": {
+              "name": "row-47"
+            }
           }
         ],
         "id": "2",
         "codeContext": {
           "name": "grid-2"
-        }
+        },
+        "cssClasses": []
       }
     ],
     "id": 1
@@ -340,11 +495,6 @@
       "id": "mg-20",
       "name": "mg-20",
       "content": "margin: 20px;"
-    },
-    {
-      "id": "border",
-      "name": "border",
-      "content": "border: 2px black solid;"
     },
     {
       "id": "ta-center",
