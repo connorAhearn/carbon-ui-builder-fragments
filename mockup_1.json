@@ -1,0 +1,548 @@
+{
+  "id": "55354825144957028987422347854299",
+  "lastModified": "2022-12-13T16:34:46.510Z",
+  "title": "Mockup w/ Zvonimir",
+  "data": {
+    "items": [
+      {
+        "type": "accordion",
+        "align": "end",
+        "size": "md",
+        "items": [
+          {
+            "type": "accordion-item",
+            "title": "Signals & Slots",
+            "items": [
+              {
+                "type": "grid",
+                "outline": true,
+                "items": [
+                  {
+                    "type": "row",
+                    "items": [
+                      {
+                        "type": "column",
+                        "items": [
+                          {
+                            "type": "text",
+                            "text": "Defining what signals occur & where they go",
+                            "id": "12",
+                            "codeContext": {
+                              "name": "text-12"
+                            }
+                          }
+                        ],
+                        "id": "7",
+                        "codeContext": {
+                          "name": "column-7"
+                        },
+                        "cssClasses": []
+                      }
+                    ],
+                    "id": "6",
+                    "codeContext": {
+                      "name": "row-6"
+                    }
+                  },
+                  {
+                    "type": "row",
+                    "items": [],
+                    "id": "22",
+                    "codeContext": {
+                      "name": "row-22"
+                    },
+                    "cssClasses": []
+                  },
+                  {
+                    "type": "row",
+                    "items": [
+                      {
+                        "type": "column",
+                        "items": [
+                          {
+                            "type": "tile",
+                            "items": [
+                              {
+                                "type": "row",
+                                "items": [
+                                  {
+                                    "type": "column",
+                                    "items": [
+                                      {
+                                        "type": "text",
+                                        "text": "On Click",
+                                        "id": "21",
+                                        "codeContext": {
+                                          "name": "text-21"
+                                        },
+                                        "cssClasses": []
+                                      }
+                                    ],
+                                    "id": "10",
+                                    "codeContext": {
+                                      "name": "column-10"
+                                    }
+                                  },
+                                  {
+                                    "type": "column",
+                                    "items": [
+                                      {
+                                        "type": "dropdown",
+                                        "placeholder": "",
+                                        "isMulti": false,
+                                        "isInline": false,
+                                        "selectionFeedback": "top-after-reopen",
+                                        "direction": "bottom",
+                                        "size": "md",
+                                        "label": "Element",
+                                        "helperText": "Your existing elements",
+                                        "listItems": [
+                                          {
+                                            "text": "Button"
+                                          }
+                                        ],
+                                        "id": "28",
+                                        "codeContext": {
+                                          "name": "dropdown-28"
+                                        },
+                                        "cssClasses": []
+                                      }
+                                    ],
+                                    "id": "11",
+                                    "codeContext": {
+                                      "name": "column-11"
+                                    }
+                                  },
+                                  {
+                                    "type": "column",
+                                    "items": [
+                                      {
+                                        "type": "dropdown",
+                                        "placeholder": "",
+                                        "isMulti": false,
+                                        "isInline": false,
+                                        "selectionFeedback": "top-after-reopen",
+                                        "direction": "bottom",
+                                        "size": "md",
+                                        "label": "Slot",
+                                        "helperText": "What changes on the element",
+                                        "listItems": [
+                                          {
+                                            "text": "Toggle Disable"
+                                          },
+                                          {
+                                            "text": "Toggle Visibility"
+                                          }
+                                        ],
+                                        "id": "34",
+                                        "codeContext": {
+                                          "name": "dropdown-34"
+                                        },
+                                        "cssClasses": []
+                                      }
+                                    ],
+                                    "id": "27",
+                                    "codeContext": {
+                                      "name": "column-27"
+                                    }
+                                  }
+                                ],
+                                "id": "9",
+                                "codeContext": {
+                                  "name": "row-9"
+                                },
+                                "cssClasses": []
+                              },
+                              {
+                                "type": "row",
+                                "items": [
+                                  {
+                                    "type": "column",
+                                    "items": [
+                                      {
+                                        "type": "button",
+                                        "kind": "ghost",
+                                        "text": "+",
+                                        "size": "",
+                                        "id": "55",
+                                        "codeContext": {
+                                          "name": "button-55"
+                                        },
+                                        "cssClasses": [
+                                          {
+                                            "id": "title",
+                                            "name": "title"
+                                          }
+                                        ]
+                                      }
+                                    ],
+                                    "id": "57",
+                                    "codeContext": {
+                                      "name": "column-57"
+                                    }
+                                  },
+                                  {
+                                    "type": "column",
+                                    "items": [],
+                                    "id": "58",
+                                    "codeContext": {
+                                      "name": "column-58"
+                                    },
+                                    "cssClasses": []
+                                  }
+                                ],
+                                "id": "56",
+                                "codeContext": {
+                                  "name": "row-56"
+                                }
+                              }
+                            ],
+                            "id": "38",
+                            "codeContext": {
+                              "name": "tile-38"
+                            },
+                            "cssClasses": []
+                          }
+                        ],
+                        "id": "36",
+                        "codeContext": {
+                          "name": "column-36"
+                        }
+                      }
+                    ],
+                    "id": "35",
+                    "codeContext": {
+                      "name": "row-35"
+                    },
+                    "cssClasses": [
+                      {
+                        "id": "mg-20",
+                        "name": "mg-20"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "row",
+                    "items": [
+                      {
+                        "type": "column",
+                        "items": [
+                          {
+                            "type": "tile",
+                            "items": [
+                              {
+                                "type": "row",
+                                "items": [
+                                  {
+                                    "type": "column",
+                                    "items": [
+                                      {
+                                        "type": "text",
+                                        "text": "OTHER EVENT",
+                                        "id": "44",
+                                        "codeContext": {
+                                          "name": "text-44"
+                                        },
+                                        "cssClasses": []
+                                      }
+                                    ],
+                                    "id": "43",
+                                    "codeContext": {
+                                      "name": "column-43"
+                                    },
+                                    "cssClasses": []
+                                  },
+                                  {
+                                    "type": "column",
+                                    "items": [
+                                      {
+                                        "type": "dropdown",
+                                        "placeholder": "",
+                                        "isMulti": false,
+                                        "isInline": false,
+                                        "selectionFeedback": "top-after-reopen",
+                                        "direction": "bottom",
+                                        "size": "md",
+                                        "label": "Element",
+                                        "helperText": "Your existing elements",
+                                        "listItems": [
+                                          {
+                                            "text": "Button"
+                                          }
+                                        ],
+                                        "id": "46",
+                                        "codeContext": {
+                                          "name": "dropdown-46"
+                                        },
+                                        "cssClasses": []
+                                      }
+                                    ],
+                                    "id": "45",
+                                    "codeContext": {
+                                      "name": "column-45"
+                                    }
+                                  },
+                                  {
+                                    "type": "column",
+                                    "items": [
+                                      {
+                                        "type": "dropdown",
+                                        "placeholder": "",
+                                        "isMulti": false,
+                                        "isInline": false,
+                                        "selectionFeedback": "top-after-reopen",
+                                        "direction": "bottom",
+                                        "size": "md",
+                                        "label": "Slot",
+                                        "helperText": "What changes on the element",
+                                        "listItems": [
+                                          {
+                                            "text": "Toggle Disable"
+                                          },
+                                          {
+                                            "text": "Toggle Visibility"
+                                          }
+                                        ],
+                                        "id": "48",
+                                        "codeContext": {
+                                          "name": "dropdown-48"
+                                        },
+                                        "cssClasses": []
+                                      }
+                                    ],
+                                    "id": "47",
+                                    "codeContext": {
+                                      "name": "column-47"
+                                    }
+                                  }
+                                ],
+                                "id": "42",
+                                "codeContext": {
+                                  "name": "row-42"
+                                },
+                                "cssClasses": []
+                              },
+                              {
+                                "type": "row",
+                                "items": [
+                                  {
+                                    "type": "column",
+                                    "items": [
+                                      {
+                                        "type": "button",
+                                        "kind": "ghost",
+                                        "text": "+",
+                                        "size": "",
+                                        "id": "62",
+                                        "codeContext": {
+                                          "name": "button-62"
+                                        },
+                                        "cssClasses": [
+                                          {
+                                            "id": "title",
+                                            "name": "title"
+                                          }
+                                        ]
+                                      }
+                                    ],
+                                    "id": "60",
+                                    "codeContext": {
+                                      "name": "column-60"
+                                    },
+                                    "cssClasses": []
+                                  },
+                                  {
+                                    "type": "column",
+                                    "items": [],
+                                    "id": "61",
+                                    "codeContext": {
+                                      "name": "column-61"
+                                    },
+                                    "cssClasses": []
+                                  }
+                                ],
+                                "id": "59",
+                                "codeContext": {
+                                  "name": "row-59"
+                                }
+                              }
+                            ],
+                            "id": "41",
+                            "codeContext": {
+                              "name": "tile-41"
+                            },
+                            "cssClasses": []
+                          }
+                        ],
+                        "id": "40",
+                        "codeContext": {
+                          "name": "column-40"
+                        }
+                      }
+                    ],
+                    "id": "39",
+                    "codeContext": {
+                      "name": "row-39"
+                    },
+                    "cssClasses": [
+                      {
+                        "id": "mg-20",
+                        "name": "mg-20"
+                      }
+                    ]
+                  }
+                ],
+                "id": "5",
+                "codeContext": {
+                  "name": "grid-5"
+                },
+                "cssClasses": []
+              }
+            ],
+            "id": "3",
+            "codeContext": {
+              "name": "accordion-item-3"
+            },
+            "cssClasses": []
+          },
+          {
+            "type": "accordion-item",
+            "title": "Slots (ignore)",
+            "items": [
+              {
+                "type": "grid",
+                "outline": true,
+                "items": [
+                  {
+                    "type": "row",
+                    "items": [
+                      {
+                        "type": "column",
+                        "items": [
+                          {
+                            "type": "text",
+                            "text": "Define what the current element does when it receives a signal",
+                            "id": "20",
+                            "codeContext": {
+                              "name": "text-20"
+                            }
+                          }
+                        ],
+                        "id": "15",
+                        "codeContext": {
+                          "name": "column-15"
+                        },
+                        "cssClasses": []
+                      },
+                      {
+                        "type": "column",
+                        "items": [
+                          {
+                            "type": "text",
+                            "text": "(Proof of concept won't care about this section)",
+                            "id": "32",
+                            "codeContext": {
+                              "name": "text-32"
+                            },
+                            "cssClasses": []
+                          }
+                        ],
+                        "id": "16",
+                        "codeContext": {
+                          "name": "column-16"
+                        },
+                        "cssClasses": []
+                      }
+                    ],
+                    "id": "14",
+                    "codeContext": {
+                      "name": "row-14"
+                    }
+                  },
+                  {
+                    "type": "row",
+                    "items": [
+                      {
+                        "type": "column",
+                        "items": [
+                          {
+                            "type": "text",
+                            "text": "Disable",
+                            "id": "30",
+                            "codeContext": {
+                              "name": "text-30"
+                            },
+                            "cssClasses": []
+                          }
+                        ],
+                        "id": "18",
+                        "codeContext": {
+                          "name": "column-18"
+                        }
+                      },
+                      {
+                        "type": "column",
+                        "items": [
+                          {
+                            "type": "toggle",
+                            "header": "Toggle",
+                            "offText": "Off",
+                            "onText": "On",
+                            "disabled": false,
+                            "checked": false,
+                            "size": "md",
+                            "id": "31",
+                            "codeContext": {
+                              "name": "toggle-31"
+                            },
+                            "cssClasses": []
+                          }
+                        ],
+                        "id": "19",
+                        "codeContext": {
+                          "name": "column-19"
+                        },
+                        "cssClasses": []
+                      }
+                    ],
+                    "id": "17",
+                    "codeContext": {
+                      "name": "row-17"
+                    }
+                  }
+                ],
+                "id": "13",
+                "codeContext": {
+                  "name": "grid-13"
+                }
+              }
+            ],
+            "id": "4",
+            "codeContext": {
+              "name": "accordion-item-4"
+            },
+            "cssClasses": []
+          }
+        ],
+        "id": "2",
+        "codeContext": {
+          "name": "accordion-2"
+        }
+      }
+    ],
+    "id": 1
+  },
+  "cssClasses": [],
+  "allCssClasses": [
+    {
+      "id": "mg-20",
+      "name": "mg-20",
+      "content": "margin: 20px;"
+    },
+    {
+      "id": "title",
+      "name": "title",
+      "content": "font-size: 30px;\npadding: 20px;\n"
+    }
+  ]
+}
